@@ -1,0 +1,60 @@
+{
+	"name": "Pedro Henrique Moraes da Silva",
+	"contact": "https://www.linkedin.com/in/pedrohmoraes/",
+	"educationalBackground": [
+		{
+			"course": "Ensino Médio e Técnico em Informática",
+			"institution": "Escola Técnica Pandiá Calógeras",
+			"period": "02.2008 - 11.2010"
+		},
+		{
+			"course": "Sistemas de Informação",
+			"institution": "UniFOA - Centro Universitario de Volta Redonda",
+			"period": "02.2008 - 11.2010"
+		}
+	],
+	"languages": [
+		{
+			"language": "Inglês",
+			"level": "Intermediário",
+			"institution": "Great - English Course",
+			"period": "2006 - 2011"
+		}
+	],
+	"skills": [
+		{
+			"CSS": "Básico",
+			"JavaScript": "Intermediário",
+			"React": "Básico",
+			"React Native": "Básico",
+			"NodeJS": "Básico",
+			"C#": "Intermediário",
+			"ASP.NET": "Básico",
+			"ASP.NET Core": "Básico",
+			"Python": "Básico",
+			"Django": "Básico",
+			"SQL Server": "Básico",
+			"MySQL": "Básico",
+			"MongoDB": "Básico",
+			"PostgreSQL": "Básico",
+			"Oracle": "Básico"
+		}
+	],
+	"experiences": [
+		{
+			"company": "HC Visual Informática",
+			"post": "Técnico de Informática",
+			"period": "03.2012 - 11.2017"
+		},
+		{
+			"company": "CSN - Companhia Siderúrgica Nacional",
+			"post": "Estagiário",
+			"period": "02.2019 - 12.2019"
+		},
+		{
+			"company": "UniFOA - Centro Universitario de Volta Redonda",
+			"post": "Técnico de Suporte e Desenvolvedor Web",
+			"period": "02.2020 - present"
+		}
+	]
+}
