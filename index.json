@@ -1,6 +1,12 @@
 {
 	"name": "Pedro Henrique Moraes da Silva",
 	"contact": "https://www.linkedin.com/in/pedrohmoraes/",
+	"community": [
+		{
+			"name": "RioSulValley",
+			"image": "https://avatars2.githubusercontent.com/u/25084709?s=60&v=4"
+		}
+	],
 	"educationalBackground": [
 		{
 			"course": "Ensino Médio e Técnico em Informática",
